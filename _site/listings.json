@@ -2,6 +2,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/Dropout_Explained/Dropout Explained.html",
       "/posts/post-with-code/index.html",
       "/posts/Web_Scraping/Flipkart_.html",
       "/posts/welcome/index.html",
@@ -11,6 +12,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/Dropout_Explained/Dropout Explained.html",
       "/posts/post-with-code/index.html",
       "/posts/Web_Scraping/Flipkart_.html",
       "/posts/welcome/index.html",
