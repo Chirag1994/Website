@@ -24,3 +24,13 @@ format:
     theme:
       light: flatly
       dark: darkly
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PMVWSZ5PWW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PMVWSZ5PWW');
+</script>
