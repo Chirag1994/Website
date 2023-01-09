@@ -4,7 +4,7 @@ project:
 website:
   title: "Chirag Sharma"
   description: "This is my Portfolio where I write Blogs & post Projects."
-  google-analytics: "G-PMVWSZ5PWW"
+  
   navbar:
     right:
       - text: Blog
