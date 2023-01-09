@@ -4,6 +4,7 @@ project:
 website:
   title: "Chirag Sharma"
   description: "This is my Portfolio where I write Blogs & post Projects."
+  google-analytics: "G-PMVWSZ5PWW"
   navbar:
     right:
       - text: Blog
@@ -18,7 +19,6 @@ website:
         href: https://twitter.com/ChiragS15391031
       - icon: medium
         href: https://medium.com/@chirag.sharma0378
-  google-analytics: "G-PMVWSZ5PWW"
 format:
   html:
     theme:
