@@ -2,8 +2,8 @@
   {
     "listing": "/archive.html",
     "items": [
-      "/posts/Dropout_Explained/Dropout Explained.html",
       "/posts/post-with-code/index.html",
+      "/posts/Dropout_Explained/Dropout_Explained.html",
       "/posts/Web_Scraping/Flipkart_.html",
       "/posts/welcome/index.html",
       "/posts/new_blog_post/post.html"
@@ -12,8 +12,8 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/Dropout_Explained/Dropout Explained.html",
       "/posts/post-with-code/index.html",
+      "/posts/Dropout_Explained/Dropout_Explained.html",
       "/posts/Web_Scraping/Flipkart_.html",
       "/posts/welcome/index.html",
       "/posts/new_blog_post/post.html"
