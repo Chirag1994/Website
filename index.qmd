@@ -1,0 +1,38 @@
+---
+page-layout: full
+---
+
+::: {.g-col-12 .g-col-md-6 #about-me-text}
+![](profile.jpg)
+:::
+
+::: {.g-col-4}
+# Hi, I'm Chirag Sharma.
+I'm a Post-Graduate student from Delhi School of Economics, University of Delhi with a Master's degree in Economics. I completed my Bachelor's degree in Economics from Motilal Nehru College, University of Delhi. 
+I'm passionate about Machine learning and it's associated fields. On this website, I share what I learn about anything related to the Data Science & Blogs on my Projects.
+
+To get started, you can check out my most popular content below. You can find me on [Twitter](https://twitter.com/ChiragS15391031) or
+[GitHub](https://github.com/Chirag1994) and 
+[LinkedIn](https://www.linkedin.com/in/chiragsharma1994/). 
+Feel free to reach out to me via [mail](mailto:blog@albert-rapp.de) and subscribe to my email newsletter.
+
+
+<iframe id="beehiiv-form" src="https://embeds.beehiiv.com/9232d2a2-6e85-4beb-b8ed-1de94e9e4f01?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 75px"></iframe>
+:::
+
+::: {.g-col-12 .g-col-md-5 .g-start-md-2}
+# Data Visualization
+
+- Blog post 1
+- Blog post 2
+- Blog post 3
+:::
+
+::: {.g-col-12 .g-col-md-5}
+# Stats/ML
+
+- This div...
+- ...required...
+- ...no offset (it's still in the first row)
+
+:::

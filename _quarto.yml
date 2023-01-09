@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Chirag Sharma"
+  description: "This is my Portfolio where I write Blogs & post Projects."
+  navbar:
+    right:
+      - text: Blog
+        href: blog.qmd
+      - text: Archive
+        href: archive.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/chiragsharma1994/
+      - icon: github
+        href: https://github.com/Chirag1994
+      - icon: twitter
+        href: https://twitter.com/ChiragS15391031
+      - icon: medium
+        href: https://medium.com/@chirag.sharma0378
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
